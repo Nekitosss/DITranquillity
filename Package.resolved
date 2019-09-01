@@ -5,9 +5,9 @@
         "package": "SwiftLazy",
         "repositoryURL": "https://github.com/ivlevAstef/SwiftLazy.git",
         "state": {
-          "branch": "master",
-          "revision": "41fcf70342353f80de892d7a65bdf63678bf45bb",
-          "version": null
+          "branch": null,
+          "revision": "8559377d164b50324ce013556287bb3900ce2326",
+          "version": "1.1.3"
         }
       }
     ]
